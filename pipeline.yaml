@@ -11,6 +11,7 @@ spec:
     - name: repo-url
     - name: branch
       default: main
+    - name: app-name
   tasks:
   
     - name: init
